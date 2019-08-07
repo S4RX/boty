@@ -1,0 +1,19 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="1.css">
+</head>
+<body>
+.wrap
+ -4.times do
+  .angle
+
+%svg{:version => "1.1", :xmlns => "http://www.w3.org/2000/svg"}
+ %defs
+  %filter#goo
+   %fegaussianblur{:in => "SourceGraphic", :result => "blur", :stddeviation => "12"}
+   %fecolormatrix{:in => "blur", :mode => "matrix", :result => "goo", :values => "1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9"}
+   %fecomposite{:in => "SourceGraphic", :in2 => "goo", :operator => "atop"}
+</body>
+</html>
+
+	

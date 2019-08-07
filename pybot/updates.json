@@ -1,0 +1,109 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 57665158,
+      "message": {
+        "message_id": 381,
+        "from": {
+          "id": 732126209,
+          "is_bot": false,
+          "first_name": "BOT",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 732126209,
+          "first_name": "BOT",
+          "type": "private"
+        },
+        "date": 1561642685,
+        "text": "https://youtu.be/V-5Yev79bMo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 28,
+            "type": "url"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 57665159,
+      "message": {
+        "message_id": 382,
+        "from": {
+          "id": 732126209,
+          "is_bot": false,
+          "first_name": "BOT",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 732126209,
+          "first_name": "BOT",
+          "type": "private"
+        },
+        "date": 1561642781,
+        "text": "https://youtu.be/V-5Yev79bMo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 28,
+            "type": "url"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 57665160,
+      "message": {
+        "message_id": 383,
+        "from": {
+          "id": 732126209,
+          "is_bot": false,
+          "first_name": "BOT",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 732126209,
+          "first_name": "BOT",
+          "type": "private"
+        },
+        "date": 1561643018,
+        "text": "https://youtu.be/Df-Xkk6II2o",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 28,
+            "type": "url"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 57665161,
+      "message": {
+        "message_id": 384,
+        "from": {
+          "id": 732126209,
+          "is_bot": false,
+          "first_name": "BOT",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 732126209,
+          "first_name": "BOT",
+          "type": "private"
+        },
+        "date": 1561643026,
+        "text": "https://youtu.be/V-5Yev79bMo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 28,
+            "type": "url"
+          }
+        ]
+      }
+    }
+  ]
+}
